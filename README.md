@@ -17,6 +17,10 @@ KEY FEATURES
 SYSTEM ARCHITECTURE
   <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/0d189be5-a36d-4bea-b3fe-b0844e141667" />
 
+CIRCUIT DIAGRAM
+  <img width="1217" height="795" alt="image" src="https://github.com/user-attachments/assets/585dd52b-5e18-4907-af2e-39a5ed2339c9" />
+
+
 TECH STACK & HARDWARE COMPONENTS
  * Software, Cloud & APIs
    - Programming languages: Python 3.x (Backend & ML), C/C++ (Embedded Hardware)
