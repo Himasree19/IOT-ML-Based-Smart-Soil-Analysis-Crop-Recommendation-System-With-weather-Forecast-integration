@@ -65,7 +65,7 @@ TECH STACK & HARDWARE COMPONENTS
   - Upload the code to the ESP32.
   - Open the Blynk IoT Dashboard.
   - Open the ThingSpeak Channel.
-  - Open the project folder containing weather5_ml.py and crop_model.pkl.
+  - Open the project folder containing weather5_ml.py.
   - Open Command Prompt/Terminal in the project folder.
   - Run the Python program using: python weather5_ml.py
   - Keep the Python program running.
