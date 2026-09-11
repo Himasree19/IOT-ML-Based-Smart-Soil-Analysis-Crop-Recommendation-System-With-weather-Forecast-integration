@@ -18,12 +18,12 @@ SYSTEM ARCHITECTURE
   <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/0d189be5-a36d-4bea-b3fe-b0844e141667" />
 
 TECH STACK & HARDWARE COMPONENTS
- *Software, Cloud & APIs
+ * Software, Cloud & APIs
    - Programming languages: Python 3.x (Backend & ML), C/C++ (Embedded Hardware)
    - IoT & Cloud Platform: Blynk Cloud
-   -External APIs: Live Weather Forecast API
-   -Development Tools: Arduino IDE,  VS Code
- *Hardware Components
+   - External APIs: Live Weather Forecast API
+   - Development Tools: Arduino IDE,  VS Code
+ * Hardware Components
   -ESP32 / ESP8266 Microcontroller: Primary IoT board handling sensor data collection and cloud connectivity.
   -Soil NPK Sensor: Measures Nitrogen (N), Phosphorus (P), and Potassium (K) levels in the soil.
   -Soil pH Sensor: Measures the acidity or alkalinity level of the soil.
