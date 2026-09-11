@@ -19,8 +19,8 @@ SYSTEM ARCHITECTURE
 
 TECH STACK & HARDWARE COMPONENTS
  *Software, Cloud & APIs
-   -Programming languages: Python 3.x (Backend & ML), C/C++ (Embedded Hardware)
-   -IoT & Cloud Platform: Blynk Cloud
+   - Programming languages: Python 3.x (Backend & ML), C/C++ (Embedded Hardware)
+   - IoT & Cloud Platform: Blynk Cloud
    -External APIs: Live Weather Forecast API
    -Development Tools: Arduino IDE,  VS Code
  *Hardware Components
