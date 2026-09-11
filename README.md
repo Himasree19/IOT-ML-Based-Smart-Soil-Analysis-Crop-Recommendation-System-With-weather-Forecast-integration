@@ -1,8 +1,8 @@
-Introduction
+INTRODUCTION
 
 The IoT & ML-Based Smart Soil Analysis & Crop Recommendation System with Weather Forecast Integration is a smart agriculture platform designed to optimize farming. It combines real-time IoT soil sensors, Machine Learning models, and live weather forecast APIs to evaluate soil parameters and recommend optimal crops for cultivation.
 
-Key Features
+KEY FEATURES
 
   -Real-time Soil & Environmental Sensing: Reads NPK levels, pH values, soil moisture, temperature, and humidity using ESP microcontrollers and sensors.
 
@@ -14,5 +14,5 @@ Key Features
 
   -Automated Control: Supports relay-based automation for smart irrigation systems based on live soil moisture thresholds.
 
-  SYSTEM ARCHITECTURE
+SYSTEM ARCHITECTURE
   <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/0d189be5-a36d-4bea-b3fe-b0844e141667" />
